@@ -18,8 +18,6 @@ Contents
 ========
  * [Installation Backend](#installation-backend)
  * [Installation Frontend](#installation-frontend)
- * [Arquitecture](#arquitecture)
- * [Approach and Methodology](#approach-and-methodology)
 
 ## Installation Backend
 
